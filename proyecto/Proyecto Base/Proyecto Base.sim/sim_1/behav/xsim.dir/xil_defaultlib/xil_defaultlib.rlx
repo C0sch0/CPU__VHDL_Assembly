@@ -1,0 +1,18 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/ALU.vhd,1506187735,vhdl,,,,alu,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Basys3.vhd,1506192644,vhdl,,,,basys3,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/C_U.vhd,1506187775,vhdl,,,,controlunit,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Clock_Divider.vhd,1504480366,vhdl,,,,clock_divider,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Debouncer.vhd,1504328816,vhdl,,,,debouncer,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Display_Controller.vhd,1504478539,vhdl,,,,display_controller,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/FA.vhd,1504475585,vhdl,,,,fa,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/PC.vhd,1504125030,vhdl,,,,pc,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/RAM.vhd,1504125030,vhdl,,,,ram,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/ROM.vhd,1504125030,vhdl,,,,rom,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Reg.vhd,1504125030,vhdl,,,,reg,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/Status.vhd,1506187922,vhdl,,,,status,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/operadores.vhd,1504548383,vhdl,,,,sum,,,,,,,,
+C:/Users/Diego/Desktop/RepoArqui/2017-2-G06/proyecto/Proyecto Base/Proyecto Base.srcs/sources_1/imports/new/resta.vhd,1504545851,vhdl,,,,resta,,,,,,,,
